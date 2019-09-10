@@ -1,2 +1,2 @@
 # get-url-c
-C algorithm to get content of a website
+C algorithm to perform HTTP requests on servers using GET and POST methods
