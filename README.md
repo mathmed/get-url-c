@@ -1,2 +1,2 @@
 # get-url-c
-C algorithm to get content of an website
+C algorithm to get content of a website
