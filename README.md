@@ -13,8 +13,10 @@ $ gcc -g req.c -o req
 $ ./req <url> <path> <method> <fields-post>
 ```
 
-## Usage example
+## Usage examples
 
 ```html
 $ ./req https://postman-echo.com /post POST somefield=somevalue&somefield2=somevalue2
 ```
+```html
+$ ./req https://postman-echo.com /get GET ```
