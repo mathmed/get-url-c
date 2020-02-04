@@ -19,4 +19,5 @@ $ ./req <url> <path> <method> <fields-post>
 $ ./req https://postman-echo.com /post POST somefield=somevalue&somefield2=somevalue2
 ```
 ```html
-$ ./req https://postman-echo.com /get GET ```
+$ ./req https://postman-echo.com /get GET
+```
