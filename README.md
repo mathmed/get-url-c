@@ -1,4 +1,4 @@
-# http-request-c
+# HTTP Request (GET/POST) using C
 
 C algorithm to perform HTTP requests on servers using GET and POST methods
 
